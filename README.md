@@ -20,9 +20,8 @@ This project analyzes the sales performance of a hardware business in a dynamica
 - Power BI for data visualization and dashboard creation.
 - Data sources: Excel files, CSV, and SQL database integration.
 
-## Screenshot
+## Overview
+![Sales_PowerBI_1](https://github.com/user-attachments/assets/3aa8685c-56f8-412a-9fc3-248663dfd76c)
+![Sales_PowerBI_2](https://github.com/user-attachments/assets/19b5f482-84af-4828-98b0-636230b741e2)
+![Sales_PowerBI_3](https://github.com/user-attachments/assets/c5dbcd6a-f8ad-48b7-9a82-9ad5679b99cb)
 
-
-## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/sales-insights-powerbi.git`
-2. Open the `.pbix` file in Power BI Desktop.
